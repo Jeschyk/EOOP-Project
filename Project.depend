@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1493168001 source:c:\users\user\desktop\projektwydatki\konto.cpp
+	"Konto.h"
+
+1493069199 c:\users\user\desktop\projektwydatki\konto.h
+	"Wydatki.h"
+
+1493168106 c:\users\user\desktop\projektwydatki\wydatki.h
+	<iostream>
+	<vector>
+	"Wydatek.h"
+
+1493069200 c:\users\user\desktop\projektwydatki\wydatek.h
+	<iostream>
+
+1493168275 source:c:\users\user\desktop\projektwydatki\wydatek.cpp
+	"Wydatek.h"
+
+1493168016 source:c:\users\user\desktop\projektwydatki\wydatki.cpp
+	"Wydatki.h"
+
+1497400093 source:c:\users\user\desktop\politechnika\programowanie obiektowe\project\main.cpp
+	"Spendings.h"
+	"Account.h"
+
+1496195755 c:\users\user\desktop\politechnika\programowanie obiektowe\project\wydatki.h
+	<iostream>
+	<vector>
+	"Wydatek.h"
+
+1496192195 c:\users\user\desktop\politechnika\programowanie obiektowe\project\wydatek.h
+	<iostream>
+
+1496178893 c:\users\user\desktop\politechnika\programowanie obiektowe\project\konto.h
+	"Wydatki.h"
+
+1496178893 source:c:\users\user\desktop\politechnika\programowanie obiektowe\project\konto.cpp
+	"Konto.h"
+
+1496191632 source:c:\users\user\desktop\politechnika\programowanie obiektowe\project\wydatki.cpp
+	"Wydatki.h"
+
+1496190652 source:c:\users\user\desktop\politechnika\programowanie obiektowe\project\wydatek.cpp
+	"Wydatek.h"
+
+1496140286 source:c:\users\jasiek\desktop\project\konto.cpp
+	"Konto.h"
+
+1496140286 c:\users\jasiek\desktop\project\konto.h
+	"Wydatki.h"
+
+1496154437 c:\users\jasiek\desktop\project\wydatki.h
+	<iostream>
+	<vector>
+	"Wydatek.h"
+
+1496154495 c:\users\jasiek\desktop\project\wydatek.h
+	<iostream>
+
+1496236153 source:c:\users\jasiek\desktop\project\main.cpp
+	"Spendings.h"
+	"Account.h"
+
+1496156322 source:c:\users\jasiek\desktop\project\wydatek.cpp
+	"Wydatek.h"
+
+1496156223 source:c:\users\jasiek\desktop\project\wydatki.cpp
+	"Wydatki.h"
+
+1496227498 source:c:\users\user\desktop\politechnika\programowanie obiektowe\project\account.cpp
+	"Account.h"
+
+1496226772 c:\users\user\desktop\politechnika\programowanie obiektowe\project\account.h
+	"Spendings.h"
+
+1497363873 c:\users\user\desktop\politechnika\programowanie obiektowe\project\spendings.h
+	<iostream>
+	<vector>
+	"Expense.h"
+
+1496226386 c:\users\user\desktop\politechnika\programowanie obiektowe\project\expense.h
+	<iostream>
+
+1496225752 source:c:\users\user\desktop\politechnika\programowanie obiektowe\project\expense.cpp
+	"Expense.h"
+
+1497365379 source:c:\users\user\desktop\politechnika\programowanie obiektowe\project\spendings.cpp
+	"Spendings.h"
+
+1496231096 source:c:\users\jasiek\desktop\project\account.cpp
+	"Account.h"
+
+1496230370 c:\users\jasiek\desktop\project\account.h
+	"Spendings.h"
+
+1496232615 c:\users\jasiek\desktop\project\spendings.h
+	<iostream>
+	<vector>
+	"Expense.h"
+
+1496229984 c:\users\jasiek\desktop\project\expense.h
+	<iostream>
+
+1496229351 source:c:\users\jasiek\desktop\project\expense.cpp
+	"Expense.h"
+
+1496230370 source:c:\users\jasiek\desktop\project\spendings.cpp
+	"Spendings.h"
+
